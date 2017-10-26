@@ -1,0 +1,714 @@
+Info: Reading netlist file "C:\Users\pixel\Documents\Kicad projects\pmt_driver\Netlist.net".
+
+Info: Using references to match components and footprints.
+
+Error: No footprint defined for component 'J2'.
+
+Error: No footprint defined for component 'D1'.
+
+Error: No footprint defined for component 'R25'.
+
+Error: No footprint defined for component 'J6'.
+
+Error: No footprint defined for component 'U9'.
+
+Error: No footprint defined for component 'C62'.
+
+Error: No footprint defined for component 'R27'.
+
+Info: Checking netlist component footprint "C1:/59A05019/59E02E3B:Capacitors_THT:CP_Radial_D10.0mm_P5.00mm".
+
+Adding new component "C1:/59A05019/59E02E3B" footprint "Capacitors_THT:CP_Radial_D10.0mm_P5.00mm".
+
+Info: Checking netlist component footprint "C2:/59A05019/59DFEB5B:Capacitors_THT:CP_Radial_D10.0mm_P5.00mm".
+
+Adding new component "C2:/59A05019/59DFEB5B" footprint "Capacitors_THT:CP_Radial_D10.0mm_P5.00mm".
+
+Info: Checking netlist component footprint "C3:/59A05019/59E0031B:Capacitors_SMD:C_1206_HandSoldering".
+
+Adding new component "C3:/59A05019/59E0031B" footprint "Capacitors_SMD:C_1206_HandSoldering".
+
+Info: Checking netlist component footprint "C4:/59A05019/59E03022:Capacitors_THT:CP_Radial_D8.0mm_P3.50mm".
+
+Adding new component "C4:/59A05019/59E03022" footprint "Capacitors_THT:CP_Radial_D8.0mm_P3.50mm".
+
+Info: Checking netlist component footprint "C5:/59A05019/59DFE2C9:Capacitors_SMD:C_1206_HandSoldering".
+
+Adding new component "C5:/59A05019/59DFE2C9" footprint "Capacitors_SMD:C_1206_HandSoldering".
+
+Info: Checking netlist component footprint "C6:/59A05019/59E04BC9:Capacitors_THT:CP_Radial_D8.0mm_P5.00mm".
+
+Adding new component "C6:/59A05019/59E04BC9" footprint "Capacitors_THT:CP_Radial_D8.0mm_P5.00mm".
+
+Info: Checking netlist component footprint "C7:/59A05019/59E06937:Capacitors_THT:CP_Radial_D8.0mm_P5.00mm".
+
+Adding new component "C7:/59A05019/59E06937" footprint "Capacitors_THT:CP_Radial_D8.0mm_P5.00mm".
+
+Info: Checking netlist component footprint "C8:/59A05019/59E05166:Capacitors_THT:CP_Radial_D8.0mm_P5.00mm".
+
+Adding new component "C8:/59A05019/59E05166" footprint "Capacitors_THT:CP_Radial_D8.0mm_P5.00mm".
+
+Info: Checking netlist component footprint "C9:/59A05019/59E06947:Capacitors_THT:CP_Radial_D8.0mm_P5.00mm".
+
+Adding new component "C9:/59A05019/59E06947" footprint "Capacitors_THT:CP_Radial_D8.0mm_P5.00mm".
+
+Info: Checking netlist component footprint "C10:/59A05019/59E04F1C:Capacitors_SMD:C_1206_HandSoldering".
+
+Adding new component "C10:/59A05019/59E04F1C" footprint "Capacitors_SMD:C_1206_HandSoldering".
+
+Info: Checking netlist component footprint "C11:/59A05019/59E0693F:Capacitors_SMD:C_1206_HandSoldering".
+
+Adding new component "C11:/59A05019/59E0693F" footprint "Capacitors_SMD:C_1206_HandSoldering".
+
+Info: Checking netlist component footprint "C12:/59A05019/59E051E6:Capacitors_SMD:C_1206_HandSoldering".
+
+Adding new component "C12:/59A05019/59E051E6" footprint "Capacitors_SMD:C_1206_HandSoldering".
+
+Info: Checking netlist component footprint "C13:/59A05019/59E0694F:Capacitors_SMD:C_1206_HandSoldering".
+
+Adding new component "C13:/59A05019/59E0694F" footprint "Capacitors_SMD:C_1206_HandSoldering".
+
+Info: Checking netlist component footprint "C14:/59A05019/59DFDE0B:Resistors_SMD:R_1206_HandSoldering".
+
+Adding new component "C14:/59A05019/59DFDE0B" footprint "Resistors_SMD:R_1206_HandSoldering".
+
+Info: Checking netlist component footprint "C15:/59A05019/59A07473:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C15:/59A05019/59A07473" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C16:/59A05019/59E06927:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C16:/59A05019/59E06927" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C17:/59A05019/59E0525E:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C17:/59A05019/59E0525E" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C18:/59A05019/59E06957:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C18:/59A05019/59E06957" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C19:/59A05019/59E01262:Capacitors_THT:C_Radial_D5_L11_P2".
+
+Adding new component "C19:/59A05019/59E01262" footprint "Capacitors_THT:C_Radial_D5_L11_P2".
+
+Info: Checking netlist component footprint "C20:/59A05019/59E01A68:Capacitors_THT:CP_Radial_D8.0mm_P3.50mm".
+
+Adding new component "C20:/59A05019/59E01A68" footprint "Capacitors_THT:CP_Radial_D8.0mm_P3.50mm".
+
+Info: Checking netlist component footprint "C21:/59A0A1E6/59DC8F61:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C21:/59A0A1E6/59DC8F61" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C22:/59A0A1E6/59DD6348:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C22:/59A0A1E6/59DD6348" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C23:/59A0A1E6/59DBDC4C:Capacitors_SMD:C_0402".
+
+Adding new component "C23:/59A0A1E6/59DBDC4C" footprint "Capacitors_SMD:C_0402".
+
+Info: Checking netlist component footprint "C24:/59A0A1E6/59DBE8B8:Capacitors_SMD:C_0402".
+
+Adding new component "C24:/59A0A1E6/59DBE8B8" footprint "Capacitors_SMD:C_0402".
+
+Info: Checking netlist component footprint "C25:/59A0A1E6/59D8314A:Capacitors_SMD:C_0306".
+
+Adding new component "C25:/59A0A1E6/59D8314A" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C26:/59A0A1E6/59DBE89D:Capacitors_SMD:C_0306".
+
+Adding new component "C26:/59A0A1E6/59DBE89D" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C27:/59A0A1E6/59D8318E:Capacitors_SMD:C_0306".
+
+Adding new component "C27:/59A0A1E6/59D8318E" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C28:/59A0A1E6/59DBE8A4:Capacitors_SMD:C_0306".
+
+Adding new component "C28:/59A0A1E6/59DBE8A4" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C29:/59A0A1E6/59DBFA84:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C29:/59A0A1E6/59DBFA84" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Info: Checking netlist component footprint "C30:/59A0A1E6/59DC046C:Capacitors_SMD:C_0402".
+
+Adding new component "C30:/59A0A1E6/59DC046C" footprint "Capacitors_SMD:C_0402".
+
+Info: Checking netlist component footprint "C31:/59A0A1E6/59DC048D:Capacitors_SMD:C_0402".
+
+Adding new component "C31:/59A0A1E6/59DC048D" footprint "Capacitors_SMD:C_0402".
+
+Info: Checking netlist component footprint "C32:/59A0A1E6/59DC0454:Capacitors_SMD:C_0306".
+
+Adding new component "C32:/59A0A1E6/59DC0454" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C33:/59A0A1E6/59DC0475:Capacitors_SMD:C_0306".
+
+Adding new component "C33:/59A0A1E6/59DC0475" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C34:/59A0A1E6/59DD625D:Capacitors_SMD:C_0306".
+
+Adding new component "C34:/59A0A1E6/59DD625D" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C35:/59A0A1E6/59DC047C:Capacitors_SMD:C_0306".
+
+Adding new component "C35:/59A0A1E6/59DC047C" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C36:/59A0A1E6/59DC045B:Capacitors_SMD:C_0306".
+
+Adding new component "C36:/59A0A1E6/59DC045B" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C37:/59A0A1E6/59DBF0A4:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C37:/59A0A1E6/59DBF0A4" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Info: Checking netlist component footprint "C38:/59A0A1E6/59DC2B62:Capacitors_SMD:C_0402".
+
+Adding new component "C38:/59A0A1E6/59DC2B62" footprint "Capacitors_SMD:C_0402".
+
+Info: Checking netlist component footprint "C39:/59A0A1E6/59DC2B7E:Capacitors_SMD:C_0402".
+
+Adding new component "C39:/59A0A1E6/59DC2B7E" footprint "Capacitors_SMD:C_0402".
+
+Info: Checking netlist component footprint "C40:/59A0A1E6/59DC2B4D:Capacitors_SMD:C_0306".
+
+Adding new component "C40:/59A0A1E6/59DC2B4D" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C41:/59A0A1E6/59DC2B69:Capacitors_SMD:C_0306".
+
+Adding new component "C41:/59A0A1E6/59DC2B69" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C42:/59A0A1E6/59DC330D:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C42:/59A0A1E6/59DC330D" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Info: Checking netlist component footprint "C43:/59A0A1E6/59DC2B54:Capacitors_SMD:C_0306".
+
+Adding new component "C43:/59A0A1E6/59DC2B54" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C44:/59A0A1E6/59DC2B70:Capacitors_SMD:C_0306".
+
+Adding new component "C44:/59A0A1E6/59DC2B70" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C45:/59A0A1E6/59DC3DE1:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "C45:/59A0A1E6/59DC3DE1" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "C46:/59A0A1E6/59DC6927:Capacitors_SMD:C_0402".
+
+Adding new component "C46:/59A0A1E6/59DC6927" footprint "Capacitors_SMD:C_0402".
+
+Info: Checking netlist component footprint "C47:/59A0A1E6/59DC6943:Capacitors_SMD:C_0402".
+
+Adding new component "C47:/59A0A1E6/59DC6943" footprint "Capacitors_SMD:C_0402".
+
+Info: Checking netlist component footprint "C48:/59A0A1E6/59DD4C94:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C48:/59A0A1E6/59DD4C94" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Info: Checking netlist component footprint "C49:/59A0A1E6/59DC6912:Capacitors_SMD:C_0306".
+
+Adding new component "C49:/59A0A1E6/59DC6912" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C50:/59A0A1E6/59DC692E:Capacitors_SMD:C_0306".
+
+Adding new component "C50:/59A0A1E6/59DC692E" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C51:/59A0A1E6/59DC6919:Capacitors_SMD:C_0306".
+
+Adding new component "C51:/59A0A1E6/59DC6919" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C52:/59A0A1E6/59DC6935:Capacitors_SMD:C_0306".
+
+Adding new component "C52:/59A0A1E6/59DC6935" footprint "Capacitors_SMD:C_0306".
+
+Info: Checking netlist component footprint "C53:/59A0A213/59DF055C:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "C53:/59A0A213/59DF055C" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C54:/59A0A213/59DDFB03:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C54:/59A0A213/59DDFB03" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Info: Checking netlist component footprint "C55:/59A0A213/59DEB078:Resistors_SMD:R_0612".
+
+Adding new component "C55:/59A0A213/59DEB078" footprint "Resistors_SMD:R_0612".
+
+Info: Checking netlist component footprint "C56:/59A0A213/59DEB5CD:Resistors_SMD:R_0612".
+
+Adding new component "C56:/59A0A213/59DEB5CD" footprint "Resistors_SMD:R_0612".
+
+Info: Checking netlist component footprint "C57:/59A0A213/59DF05E1:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "C57:/59A0A213/59DF05E1" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C58:/59A0A213/59DEB6B2:Resistors_SMD:R_0612".
+
+Adding new component "C58:/59A0A213/59DEB6B2" footprint "Resistors_SMD:R_0612".
+
+Info: Checking netlist component footprint "C59:/59A0A213/59DEC058:Resistors_SMD:R_0612".
+
+Adding new component "C59:/59A0A213/59DEC058" footprint "Resistors_SMD:R_0612".
+
+Info: Checking netlist component footprint "C60:/59A0A213/59DEB74F:Resistors_SMD:R_0612".
+
+Adding new component "C60:/59A0A213/59DEB74F" footprint "Resistors_SMD:R_0612".
+
+Info: Checking netlist component footprint "C61:/59A0A213/59DEFD9E:Capacitors_SMD:C_0402_NoSilk".
+
+Adding new component "C61:/59A0A213/59DEFD9E" footprint "Capacitors_SMD:C_0402_NoSilk".
+
+Info: Checking netlist component footprint "C62:/59A0A213/59DE27D9:".
+
+Error: Cannot add new component "C62:/59A0A213/59DE27D9" due to missing footprint "".
+
+Info: Checking netlist component footprint "C63:/59A0A213/59DEC751:Resistors_SMD:R_0612".
+
+Adding new component "C63:/59A0A213/59DEC751" footprint "Resistors_SMD:R_0612".
+
+Info: Checking netlist component footprint "C64:/59A0A213/59DEC7C9:Resistors_SMD:R_0612".
+
+Adding new component "C64:/59A0A213/59DEC7C9" footprint "Resistors_SMD:R_0612".
+
+Info: Checking netlist component footprint "C65:/59A0A213/59DED289:Capacitors_SMD:C_0402_NoSilk".
+
+Adding new component "C65:/59A0A213/59DED289" footprint "Capacitors_SMD:C_0402_NoSilk".
+
+Info: Checking netlist component footprint "C66:/59E272DD/59E293CD:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C66:/59E272DD/59E293CD" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C67:/59E272DD/59E2A45B:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C67:/59E272DD/59E2A45B" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C68:/59E272DD/59E2A7D9:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C68:/59E272DD/59E2A7D9" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C69:/59E272DD/59E2A7FF:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C69:/59E272DD/59E2A7FF" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C70:/59E35431/59E35B6A:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C70:/59E35431/59E35B6A" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Info: Checking netlist component footprint "C71:/59E35431/59E3A291:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C71:/59E35431/59E3A291" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Info: Checking netlist component footprint "C72:/59E35431/59E3E4E3:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C72:/59E35431/59E3E4E3" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Info: Checking netlist component footprint "C73:/59E35431/59E3E557:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C73:/59E35431/59E3E557" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Info: Checking netlist component footprint "C74:/59E35431/59E3E5BA:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C74:/59E35431/59E3E5BA" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Info: Checking netlist component footprint "C75:/59E35431/59E3A495:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C75:/59E35431/59E3A495" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Info: Checking netlist component footprint "D1:/59A05019/59DFEEB0:".
+
+Error: Cannot add new component "D1:/59A05019/59DFEEB0" due to missing footprint "".
+
+Info: Checking netlist component footprint "D2:/59A05019/59DFC2FB:Diodes_THT:D_DO-41_SOD81_P10.16mm_Horizontal".
+
+Adding new component "D2:/59A05019/59DFC2FB" footprint "Diodes_THT:D_DO-41_SOD81_P10.16mm_Horizontal".
+
+Info: Checking netlist component footprint "D3:/59A0A213/59DF393A:Diodes_SMD:SOD-523".
+
+Adding new component "D3:/59A0A213/59DF393A" footprint "Diodes_SMD:SOD-523".
+
+Info: Checking netlist component footprint "D4:/59A0A213/59DF41EE:Diodes_SMD:SOD-523".
+
+Adding new component "D4:/59A0A213/59DF41EE" footprint "Diodes_SMD:SOD-523".
+
+Info: Checking netlist component footprint "D5:/59A0A213/59DF2D95:Diodes_SMD:D_MiniMELF_Handsoldering".
+
+Adding new component "D5:/59A0A213/59DF2D95" footprint "Diodes_SMD:D_MiniMELF_Handsoldering".
+
+Info: Checking netlist component footprint "D6:/59A0A213/59DE301E:Diodes_SMD:D_MiniMELF_Handsoldering".
+
+Adding new component "D6:/59A0A213/59DE301E" footprint "Diodes_SMD:D_MiniMELF_Handsoldering".
+
+Info: Checking netlist component footprint "F1:/59A05019/59E08890:Fuse_Holders_and_Fuses:Littelfuse_05200101Z_holder".
+
+Adding new component "F1:/59A05019/59E08890" footprint "Fuse_Holders_and_Fuses:Littelfuse_05200101Z_holder".
+
+Info: Checking netlist component footprint "J1:/59DDBB95:Connectors:LEMO_angled".
+
+Adding new component "J1:/59DDBB95" footprint "Connectors:LEMO_angled".
+
+Info: Checking netlist component footprint "J2:/59E2DD03:".
+
+Error: Cannot add new component "J2:/59E2DD03" due to missing footprint "".
+
+Info: Checking netlist component footprint "J3:/59E1F4E1:Connectors:LEMO_straight".
+
+Adding new component "J3:/59E1F4E1" footprint "Connectors:LEMO_straight".
+
+Info: Checking netlist component footprint "J4:/59E230FE/59E237F4:Connectors:LEMO_straight".
+
+Adding new component "J4:/59E230FE/59E237F4" footprint "Connectors:LEMO_straight".
+
+Info: Checking netlist component footprint "J5:/59E230FE/59E23908:Connectors:LEMO_straight".
+
+Adding new component "J5:/59E230FE/59E23908" footprint "Connectors:LEMO_straight".
+
+Info: Checking netlist component footprint "J6:/59E230FE/59E237AA:".
+
+Error: Cannot add new component "J6:/59E230FE/59E237AA" due to missing footprint "".
+
+Info: Checking netlist component footprint "J7:/59E272DD/59E29675:Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol".
+
+Adding new component "J7:/59E272DD/59E29675" footprint "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol".
+
+Info: Checking netlist component footprint "J8:/59E272DD/59E2A465:Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol".
+
+Adding new component "J8:/59E272DD/59E2A465" footprint "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol".
+
+Info: Checking netlist component footprint "J9:/59E272DD/59E2A7E3:Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol".
+
+Adding new component "J9:/59E272DD/59E2A7E3" footprint "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol".
+
+Info: Checking netlist component footprint "J10:/59E272DD/59E2A809:Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol".
+
+Adding new component "J10:/59E272DD/59E2A809" footprint "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol".
+
+Info: Checking netlist component footprint "JP1:/59E230FE/59E23962:Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm".
+
+Adding new component "JP1:/59E230FE/59E23962" footprint "Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm".
+
+Info: Checking netlist component footprint "L1:/59A05019/59DFE9CD:Inductors_THT:L_Toroid_Vertical_L22.4mm_W10.2mm_P7.90mm_Vishay_TJ4".
+
+Adding new component "L1:/59A05019/59DFE9CD" footprint "Inductors_THT:L_Toroid_Vertical_L22.4mm_W10.2mm_P7.90mm_Vishay_TJ4".
+
+Info: Checking netlist component footprint "L2:/59A05019/59E03142:Inductors_THT:L_Radial_D10.0mm_P5.00mm_Fastron_07M".
+
+Adding new component "L2:/59A05019/59E03142" footprint "Inductors_THT:L_Radial_D10.0mm_P5.00mm_Fastron_07M".
+
+Info: Checking netlist component footprint "L3:/59A05019/59DFE748:Inductors_THT:L_Radial_D6.0mm_P4.00mm".
+
+Adding new component "L3:/59A05019/59DFE748" footprint "Inductors_THT:L_Radial_D6.0mm_P4.00mm".
+
+Info: Checking netlist component footprint "L4:/59A05019/59A07609:Inductors_THT:L_Radial_D12.0mm_P6.5mm".
+
+Adding new component "L4:/59A05019/59A07609" footprint "Inductors_THT:L_Radial_D12.0mm_P6.5mm".
+
+Info: Checking netlist component footprint "L5:/59A05019/59E0692F:Inductors_THT:L_Radial_D12.0mm_P6.5mm".
+
+Adding new component "L5:/59A05019/59E0692F" footprint "Inductors_THT:L_Radial_D12.0mm_P6.5mm".
+
+Info: Checking netlist component footprint "L6:/59A0A1E6/59DBD9B5:Inductors_SMD:L_1210".
+
+Adding new component "L6:/59A0A1E6/59DBD9B5" footprint "Inductors_SMD:L_1210".
+
+Info: Checking netlist component footprint "L7:/59A0A1E6/59DBE8B1:Inductors_SMD:L_1210".
+
+Adding new component "L7:/59A0A1E6/59DBE8B1" footprint "Inductors_SMD:L_1210".
+
+Info: Checking netlist component footprint "L8:/59A0A1E6/59DC0465:Inductors_SMD:L_1210".
+
+Adding new component "L8:/59A0A1E6/59DC0465" footprint "Inductors_SMD:L_1210".
+
+Info: Checking netlist component footprint "L9:/59A0A1E6/59DC0486:Inductors_SMD:L_1210".
+
+Adding new component "L9:/59A0A1E6/59DC0486" footprint "Inductors_SMD:L_1210".
+
+Info: Checking netlist component footprint "L10:/59A0A1E6/59DC2B5B:Inductors_SMD:L_1210".
+
+Adding new component "L10:/59A0A1E6/59DC2B5B" footprint "Inductors_SMD:L_1210".
+
+Info: Checking netlist component footprint "L11:/59A0A1E6/59DC2B77:Inductors_SMD:L_1210".
+
+Adding new component "L11:/59A0A1E6/59DC2B77" footprint "Inductors_SMD:L_1210".
+
+Info: Checking netlist component footprint "L12:/59A0A1E6/59DC6920:Inductors_SMD:L_1210".
+
+Adding new component "L12:/59A0A1E6/59DC6920" footprint "Inductors_SMD:L_1210".
+
+Info: Checking netlist component footprint "L13:/59A0A1E6/59DC693C:Inductors_SMD:L_1210".
+
+Adding new component "L13:/59A0A1E6/59DC693C" footprint "Inductors_SMD:L_1210".
+
+Info: Checking netlist component footprint "P1:/59A05019/59DFB0AF:Modules:JCH1024D05".
+
+Adding new component "P1:/59A05019/59DFB0AF" footprint "Modules:JCH1024D05".
+
+Info: Checking netlist component footprint "P2:/59A05019/59DFBA0F:Modules:PQMC3-S".
+
+Adding new component "P2:/59A05019/59DFBA0F" footprint "Modules:PQMC3-S".
+
+Info: Checking netlist component footprint "R1:/59E20290:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R1:/59E20290" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R2:/59A05019/59E09FFE:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R2:/59A05019/59E09FFE" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R3:/59A05019/59E0A169:Resistors_SMD:R_2010_HandSoldering".
+
+Adding new component "R3:/59A05019/59E0A169" footprint "Resistors_SMD:R_2010_HandSoldering".
+
+Info: Checking netlist component footprint "R4:/59A05019/59DFC20B:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R4:/59A05019/59DFC20B" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R5:/59A05019/59E05721:Resistors_SMD:R_1206_HandSoldering".
+
+Adding new component "R5:/59A05019/59E05721" footprint "Resistors_SMD:R_1206_HandSoldering".
+
+Info: Checking netlist component footprint "R6:/59A05019/59E06972:Resistors_SMD:R_1206_HandSoldering".
+
+Adding new component "R6:/59A05019/59E06972" footprint "Resistors_SMD:R_1206_HandSoldering".
+
+Info: Checking netlist component footprint "R7:/59A05019/59E1658C:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R7:/59A05019/59E1658C" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R8:/59A05019/59E1661F:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R8:/59A05019/59E1661F" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R9:/59A05019/59E16438:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R9:/59A05019/59E16438" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R10:/59A05019/59E164F9:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R10:/59A05019/59E164F9" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R11:/59A0A1E6/59D7DCA4:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R11:/59A0A1E6/59D7DCA4" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R12:/59A0A1E6/59DBF45E:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R12:/59A0A1E6/59DBF45E" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R13:/59A0A1E6/59DCD1D7:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R13:/59A0A1E6/59DCD1D7" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R14:/59A0A1E6/59DBF9C3:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R14:/59A0A1E6/59DBF9C3" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R15:/59A0A1E6/59DBF09E:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "R15:/59A0A1E6/59DBF09E" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R16:/59A0A1E6/59DD36C3:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R16:/59A0A1E6/59DD36C3" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R17:/59A0A1E6/59DD346D:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R17:/59A0A1E6/59DD346D" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R18:/59A0A1E6/59DC3301:Resistors_SMD:R_0402".
+
+Adding new component "R18:/59A0A1E6/59DC3301" footprint "Resistors_SMD:R_0402".
+
+Info: Checking netlist component footprint "R19:/59A0A213/59E0FCD1:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R19:/59A0A213/59E0FCD1" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R20:/59A0A213/59DF4700:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R20:/59A0A213/59DF4700" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R21:/59A0A213/59DDFE5E:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R21:/59A0A213/59DDFE5E" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R22:/59A0A213/59DDFD70:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R22:/59A0A213/59DDFD70" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R23:/59A0A213/59DE24D1:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R23:/59A0A213/59DE24D1" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R24:/59A0A213/59DE19F7:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R24:/59A0A213/59DE19F7" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R25:/59A0A213/59DE1BBC:".
+
+Error: Cannot add new component "R25:/59A0A213/59DE1BBC" due to missing footprint "".
+
+Info: Checking netlist component footprint "R26:/59A0A213/59DE1AAB:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R26:/59A0A213/59DE1AAB" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R27:/59A0A213/59DE1C61:".
+
+Error: Cannot add new component "R27:/59A0A213/59DE1C61" due to missing footprint "".
+
+Info: Checking netlist component footprint "R28:/59E272DD/59E29961:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R28:/59E272DD/59E29961" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R29:/59E272DD/59E2A46B:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R29:/59E272DD/59E2A46B" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R30:/59E272DD/59E2A7E9:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R30:/59E272DD/59E2A7E9" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R31:/59E272DD/59E2A80F:Resistors_SMD:R_0805_HandSoldering".
+
+Adding new component "R31:/59E272DD/59E2A80F" footprint "Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R32:/59E35431/59E358EE:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R32:/59E35431/59E358EE" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R33:/59E35431/59E3A28B:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R33:/59E35431/59E3A28B" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R34:/59E35431/59E36285:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R34:/59E35431/59E36285" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R35:/59E35431/59E3A2AE:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R35:/59E35431/59E3A2AE" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R36:/59E35431/59E362A7:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R36:/59E35431/59E362A7" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R37:/59E35431/59E3A2B6:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R37:/59E35431/59E3A2B6" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R38:/59E35431/59E362CC:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R38:/59E35431/59E362CC" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R39:/59E35431/59E3A2BE:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R39:/59E35431/59E3A2BE" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R40:/59E35431/59E3A48F:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R40:/59E35431/59E3A48F" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R41:/59E35431/59E3A4B2:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R41:/59E35431/59E3A4B2" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R42:/59E35431/59E3A4BA:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R42:/59E35431/59E3A4BA" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "R43:/59E35431/59E3A4C2:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R43:/59E35431/59E3A4C2" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Info: Checking netlist component footprint "RV1:/59A0A213/59DF2A12:Potentiometers:Potentiometer_Trimmer_Bourns_3266W".
+
+Adding new component "RV1:/59A0A213/59DF2A12" footprint "Potentiometers:Potentiometer_Trimmer_Bourns_3266W".
+
+Info: Checking netlist component footprint "RV2:/59A0A213/59DE23B2:Potentiometers:Potentiometer_Trimmer_Bourns_3266W".
+
+Adding new component "RV2:/59A0A213/59DE23B2" footprint "Potentiometers:Potentiometer_Trimmer_Bourns_3266W".
+
+Info: Checking netlist component footprint "RV3:/59E272DD/59E2873F:Potentiometers:Potentiometer_Trimmer_Bourns_3266W".
+
+Adding new component "RV3:/59E272DD/59E2873F" footprint "Potentiometers:Potentiometer_Trimmer_Bourns_3266W".
+
+Info: Checking netlist component footprint "RV4:/59E272DD/59E2A455:Potentiometers:Potentiometer_Trimmer_Bourns_3266W".
+
+Adding new component "RV4:/59E272DD/59E2A455" footprint "Potentiometers:Potentiometer_Trimmer_Bourns_3266W".
+
+Info: Checking netlist component footprint "RV5:/59E272DD/59E2A7D3:Potentiometers:Potentiometer_Trimmer_Bourns_3266W".
+
+Adding new component "RV5:/59E272DD/59E2A7D3" footprint "Potentiometers:Potentiometer_Trimmer_Bourns_3266W".
+
+Info: Checking netlist component footprint "RV6:/59E272DD/59E2A7F9:Potentiometers:Potentiometer_Trimmer_Bourns_3266W".
+
+Adding new component "RV6:/59E272DD/59E2A7F9" footprint "Potentiometers:Potentiometer_Trimmer_Bourns_3266W".
+
+Info: Checking netlist component footprint "U1:/59A05019/59DFD5C2:Modules:MHPS2283".
+
+Adding new component "U1:/59A05019/59DFD5C2" footprint "Modules:MHPS2283".
+
+Info: Checking netlist component footprint "U2:/59A0A1E6/59D805E4:TO_SOT_Packages_SMD:SOT-23-5_HandSoldering".
+
+Adding new component "U2:/59A0A1E6/59D805E4" footprint "TO_SOT_Packages_SMD:SOT-23-5_HandSoldering".
+
+Info: Checking netlist component footprint "U3:/59A0A1E6/59DBF963:TO_SOT_Packages_SMD:SOT-23-6_Handsoldering".
+
+Adding new component "U3:/59A0A1E6/59DBF963" footprint "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering".
+
+Info: Checking netlist component footprint "U4:/59A0A1E6/59DD8C24:TO_SOT_Packages_SMD:SOT-23-5_HandSoldering".
+
+Adding new component "U4:/59A0A1E6/59DD8C24" footprint "TO_SOT_Packages_SMD:SOT-23-5_HandSoldering".
+
+Info: Checking netlist component footprint "U5:/59A0A1E6/59DD8CE0:TO_SOT_Packages_SMD:SOT-23-6_Handsoldering".
+
+Adding new component "U5:/59A0A1E6/59DD8CE0" footprint "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering".
+
+Info: Checking netlist component footprint "U6:/59A0A213/59DDE4A8:Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm".
+
+Adding new component "U6:/59A0A213/59DDE4A8" footprint "Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm".
+
+Info: Checking netlist component footprint "U7:/59A0A213/59DDE9A1:TO_SOT_Packages_SMD:SOT-23-5_HandSoldering".
+
+Adding new component "U7:/59A0A213/59DDE9A1" footprint "TO_SOT_Packages_SMD:SOT-23-5_HandSoldering".
+
+Info: Checking netlist component footprint "U8:/59A0A213/59DDE822:TO_SOT_Packages_SMD:SOT-23-5_HandSoldering".
+
+Adding new component "U8:/59A0A213/59DDE822" footprint "TO_SOT_Packages_SMD:SOT-23-5_HandSoldering".
+
+Info: Checking netlist component footprint "U9:/59A0A213/59DE6545:".
+
+Error: Cannot add new component "U9:/59A0A213/59DE6545" due to missing footprint "".
+
+Info: Checking netlist component footprint "U10:/59A0A213/59DDD94C:Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm".
+
+Adding new component "U10:/59A0A213/59DDD94C" footprint "Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm".
+
+Info: Checking netlist component footprint "U11:/59A0A213/59DDDC5C:Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm".
+
+Adding new component "U11:/59A0A213/59DDDC5C" footprint "Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm".
+
+Info: Checking netlist component footprint "U12:/59E35431/59E35868:Buttons_Switches_THT:SW_DIP_x4_W7.62mm_Slide".
+
+Adding new component "U12:/59E35431/59E35868" footprint "Buttons_Switches_THT:SW_DIP_x4_W7.62mm_Slide".
+
+Info: Checking netlist component footprint "U13:/59E35431/59E3A283:Buttons_Switches_THT:SW_DIP_x4_W7.62mm_Slide".
+
+Adding new component "U13:/59E35431/59E3A283" footprint "Buttons_Switches_THT:SW_DIP_x4_W7.62mm_Slide".
+
+Info: Checking netlist component footprint "U14:/59E35431/59E356F9:Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm".
+
+Adding new component "U14:/59E35431/59E356F9" footprint "Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm".
+
+Info: Checking netlist component footprint "U15:/59E35431/59E3A27B:Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm".
+
+Adding new component "U15:/59E35431/59E3A27B" footprint "Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm".
+
+Info: Checking netlist component footprint "U16:/59E35431/59E3A47F:Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm".
+
+Adding new component "U16:/59E35431/59E3A47F" footprint "Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm".
+
+Info: Checking netlist component footprint "U17:/59E35431/59E3A487:Buttons_Switches_THT:SW_DIP_x4_W7.62mm_Slide".
+
+Adding new component "U17:/59E35431/59E3A487" footprint "Buttons_Switches_THT:SW_DIP_x4_W7.62mm_Slide".
+

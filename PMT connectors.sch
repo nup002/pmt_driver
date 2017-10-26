@@ -1,0 +1,338 @@
+EESchema Schematic File Version 2
+LIBS:pmt_driver-rescue
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:Magnes Components
+LIBS:pmt_driver-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 5 17
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 2550 1150 0    60   Input ~ 0
++15V_IN
+$Comp
+L POT RV3
+U 1 1 59E2873F
+P 3150 1250
+F 0 "RV3" V 2975 1250 50  0000 C CNN
+F 1 "10k" V 3050 1250 50  0000 C CNN
+F 2 "Potentiometers:Potentiometer_Trimmer_Bourns_3266W" H 3150 1250 50  0001 C CNN
+F 3 "" H 3150 1250 50  0001 C CNN
+F 4 "3266W-1-103LF" V 3150 1250 60  0001 C CNN "MPN"
+F 5 "3266W-103LF-ND" V 3150 1250 60  0001 C CNN "DK"
+	1    3150 1250
+	0    -1   1    0   
+$EndComp
+$Comp
+L C C65
+U 1 1 59E293CD
+P 3250 1550
+F 0 "C65" H 3275 1650 50  0000 L CNN
+F 1 "1n" H 3275 1450 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3288 1400 50  0001 C CNN
+F 3 "" H 3250 1550 50  0001 C CNN
+	1    3250 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Screw_Terminal_01x04 J8
+U 1 1 59E29675
+P 4050 1250
+F 0 "J8" H 4050 1450 50  0000 C CNN
+F 1 "Screw_Terminal_01x04" H 3600 1550 50  0000 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol" H 4050 1250 50  0001 C CNN
+F 3 "" H 4050 1250 50  0001 C CNN
+F 4 "OSTVN04A150" H 4050 1250 60  0001 C CNN "MPN"
+F 5 "ED10563-ND" H 4050 1250 60  0001 C CNN "DK"
+	1    4050 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L POT RV4
+U 1 1 59E2A455
+P 3150 2200
+F 0 "RV4" V 2975 2200 50  0000 C CNN
+F 1 "10k" V 3050 2200 50  0000 C CNN
+F 2 "Potentiometers:Potentiometer_Trimmer_Bourns_3266W" H 3150 2200 50  0001 C CNN
+F 3 "" H 3150 2200 50  0001 C CNN
+F 4 "3266W-1-103LF" V 3150 2200 60  0001 C CNN "MPN"
+F 5 "3266W-103LF-ND" V 3150 2200 60  0001 C CNN "DK"
+	1    3150 2200
+	0    -1   1    0   
+$EndComp
+$Comp
+L C C66
+U 1 1 59E2A45B
+P 3250 2500
+F 0 "C66" H 3275 2600 50  0000 L CNN
+F 1 "1n" H 3275 2400 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3288 2350 50  0001 C CNN
+F 3 "" H 3250 2500 50  0001 C CNN
+	1    3250 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Screw_Terminal_01x04 J9
+U 1 1 59E2A465
+P 4050 2200
+F 0 "J9" H 4050 2400 50  0000 C CNN
+F 1 "Screw_Terminal_01x04" H 3600 2500 50  0000 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol" H 4050 2200 50  0001 C CNN
+F 3 "" H 4050 2200 50  0001 C CNN
+F 4 "OSTVN04A150" H 4050 2200 60  0001 C CNN "MPN"
+F 5 "ED10563-ND" H 4050 2200 60  0001 C CNN "DK"
+	1    4050 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L POT RV5
+U 1 1 59E2A7D3
+P 3150 3100
+F 0 "RV5" V 2975 3100 50  0000 C CNN
+F 1 "10k" V 3050 3100 50  0000 C CNN
+F 2 "Potentiometers:Potentiometer_Trimmer_Bourns_3266W" H 3150 3100 50  0001 C CNN
+F 3 "" H 3150 3100 50  0001 C CNN
+F 4 "3266W-1-103LF" V 3150 3100 60  0001 C CNN "MPN"
+F 5 "3266W-103LF-ND" V 3150 3100 60  0001 C CNN "DK"
+	1    3150 3100
+	0    -1   1    0   
+$EndComp
+$Comp
+L C C67
+U 1 1 59E2A7D9
+P 3250 3400
+F 0 "C67" H 3275 3500 50  0000 L CNN
+F 1 "1n" H 3275 3300 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3288 3250 50  0001 C CNN
+F 3 "" H 3250 3400 50  0001 C CNN
+	1    3250 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Screw_Terminal_01x04 J10
+U 1 1 59E2A7E3
+P 4050 3100
+F 0 "J10" H 4050 3300 50  0000 C CNN
+F 1 "Screw_Terminal_01x04" H 3600 3400 50  0000 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol" H 4050 3100 50  0001 C CNN
+F 3 "" H 4050 3100 50  0001 C CNN
+F 4 "OSTVN04A150" H 4050 3100 60  0001 C CNN "MPN"
+F 5 "ED10563-ND" H 4050 3100 60  0001 C CNN "DK"
+	1    4050 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L POT RV6
+U 1 1 59E2A7F9
+P 3150 4050
+F 0 "RV6" V 2975 4050 50  0000 C CNN
+F 1 "10k" V 3050 4050 50  0000 C CNN
+F 2 "Potentiometers:Potentiometer_Trimmer_Bourns_3266W" H 3150 4050 50  0001 C CNN
+F 3 "" H 3150 4050 50  0001 C CNN
+F 4 "3266W-1-103LF" V 3150 4050 60  0001 C CNN "MPN"
+F 5 "3266W-103LF-ND" V 3150 4050 60  0001 C CNN "DK"
+	1    3150 4050
+	0    -1   1    0   
+$EndComp
+$Comp
+L C C68
+U 1 1 59E2A7FF
+P 3250 4350
+F 0 "C68" H 3275 4450 50  0000 L CNN
+F 1 "1n" H 3275 4250 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3288 4200 50  0001 C CNN
+F 3 "" H 3250 4350 50  0001 C CNN
+	1    3250 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Screw_Terminal_01x04 J11
+U 1 1 59E2A809
+P 4050 4050
+F 0 "J11" H 4050 4250 50  0000 C CNN
+F 1 "Screw_Terminal_01x04" H 3600 4350 50  0000 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol" H 4050 4050 50  0001 C CNN
+F 3 "" H 4050 4050 50  0001 C CNN
+F 4 "OSTVN04A150" H 4050 4050 60  0001 C CNN "MPN"
+F 5 "ED10563-ND" H 4050 4050 60  0001 C CNN "DK"
+	1    4050 4050
+	1    0    0    -1  
+$EndComp
+Text HLabel 2350 1700 0    60   Input ~ 0
+GND
+$Comp
+L R R56
+U 1 1 59EBD6B2
+P 3000 1450
+F 0 "R56" V 3080 1450 50  0000 C CNN
+F 1 "7.15k" V 3000 1450 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805" V 2930 1450 50  0001 C CNB
+F 3 "" H 3000 1450 50  0001 C CNN
+	1    3000 1450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3150 1400 3400 1400
+Connection ~ 3250 1400
+Wire Wire Line
+	2350 1700 3850 1700
+Wire Wire Line
+	3850 1350 3400 1350
+Wire Wire Line
+	3400 1350 3400 1400
+Wire Wire Line
+	3850 1700 3850 1450
+Connection ~ 3250 1700
+Wire Wire Line
+	3150 2350 3400 2350
+Connection ~ 3250 2350
+Wire Wire Line
+	2850 2650 3850 2650
+Wire Wire Line
+	3850 2300 3400 2300
+Wire Wire Line
+	3400 2300 3400 2350
+Wire Wire Line
+	3850 2650 3850 2400
+Connection ~ 3250 2650
+Wire Wire Line
+	3150 3250 3400 3250
+Connection ~ 3250 3250
+Wire Wire Line
+	2850 3550 3850 3550
+Wire Wire Line
+	3850 3200 3400 3200
+Wire Wire Line
+	3400 3200 3400 3250
+Wire Wire Line
+	3850 3550 3850 3300
+Connection ~ 3250 3550
+Wire Wire Line
+	3150 4200 3400 4200
+Connection ~ 3250 4200
+Wire Wire Line
+	2850 4500 3850 4500
+Wire Wire Line
+	3850 4150 3400 4150
+Wire Wire Line
+	3400 4150 3400 4200
+Wire Wire Line
+	3850 4500 3850 4250
+Connection ~ 3250 4500
+Wire Wire Line
+	2550 1150 3850 1150
+Wire Wire Line
+	2700 1150 2700 3950
+Wire Wire Line
+	2700 2100 3850 2100
+Connection ~ 2700 1150
+Wire Wire Line
+	2700 3000 3850 3000
+Connection ~ 2700 2100
+Wire Wire Line
+	2700 3950 3850 3950
+Connection ~ 2700 3000
+Connection ~ 3000 1700
+Wire Wire Line
+	2850 1700 2850 4500
+Connection ~ 2850 1700
+Connection ~ 3000 2650
+Connection ~ 2850 2650
+Connection ~ 3000 3550
+Connection ~ 2850 3550
+Connection ~ 3000 4500
+Wire Wire Line
+	3000 1600 3000 1700
+Wire Wire Line
+	3300 3100 3850 3100
+Wire Wire Line
+	3300 4050 3850 4050
+Wire Wire Line
+	3300 2200 3850 2200
+$Comp
+L R R57
+U 1 1 59EBE066
+P 3000 2400
+F 0 "R57" V 3080 2400 50  0000 C CNN
+F 1 "7.15k" V 3000 2400 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805" V 2930 2400 50  0001 C CNB
+F 3 "" H 3000 2400 50  0001 C CNN
+	1    3000 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R58
+U 1 1 59EBE0C2
+P 3000 3300
+F 0 "R58" V 3080 3300 50  0000 C CNN
+F 1 "7.15k" V 3000 3300 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805" V 2930 3300 50  0001 C CNB
+F 3 "" H 3000 3300 50  0001 C CNN
+	1    3000 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R59
+U 1 1 59EBE168
+P 3000 4250
+F 0 "R59" V 3080 4250 50  0000 C CNN
+F 1 "7.15k" V 3000 4250 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805" V 2930 4250 50  0001 C CNB
+F 3 "" H 3000 4250 50  0001 C CNN
+	1    3000 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 4100 3000 4050
+Wire Wire Line
+	3000 4400 3000 4500
+Wire Wire Line
+	3000 3450 3000 3550
+Wire Wire Line
+	3000 3150 3000 3100
+Wire Wire Line
+	3000 2250 3000 2200
+Wire Wire Line
+	3000 2550 3000 2650
+Wire Wire Line
+	3000 1300 3000 1250
+Wire Wire Line
+	3300 1250 3850 1250
+$EndSCHEMATC
