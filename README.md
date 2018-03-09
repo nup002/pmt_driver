@@ -2,19 +2,19 @@
 -------------
 
 The PMT driver is a complete system for operating and pulse height triggering on up to four photomultiplier tubes. 
-It will output high-precision (200ps jitter typ.) trigger pulses from each channel as LVDS signals on cat5 ethernet cable.
+It will output high-precision (92ps jitter typ.) trigger pulses from each channel as LVDS signals on cat5 ethernet cable.
 Low-precision trigger pulses are combined with programmable logic so that channels can be set up in coincidence, veto, or any other 
 configuration as required for the specific experimental setup.
 
 
 Specifications and capabilities:
 - Input voltage: 18V-36V, recommended 24V.
-- Power consumption: TBD
+- Current consumption: 250mA
 - Screw terminals for powering and controlling gain of four PMTs (designed for Hamamatsu H10425 series)
 - Four LEMO input channels. Per channel:
   - 5.95mV/1µA amplifier (75.5dB). Operational range: 1MHz - 300MHz.
   - Pulse height discriminator (200ps jitter typ.) with adjustable discriminator level and pulse length output.
-  - Discriminated pulse output as LVDS over RJ45 connector for standard cat5 ethernet cables. Pulses from each of the four channels are time-matched to +-10ps.
+  - Discriminated pulse output as LVDS over RJ45 connector for standard cat5 ethernet cables. Pulses from each of the four channels are time-matched to +-5ps.
 - TTL-level version of the discriminated pulses pass through optional delay lines.
 - Discriminated pulses are combined with programmable logic, so that nearly any required experimental configuration can be implemented. 
 - Final pulse is output over LVDS and TTL, with adjustable length.
